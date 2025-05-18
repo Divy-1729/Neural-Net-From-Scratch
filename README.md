@@ -6,23 +6,10 @@ This Jupyter notebook walks through building a simple two-layer neural network *
 
 ## Table of Contents
 
-1. [Introduction](#introduction)  
+1. [Aim](#aim)  
 2. [Dependencies](#dependencies)  
-3. [Dataset & Preprocessing](#dataset--preprocessing)  
-4. [Model Architecture](#model-architecture)  
-5. [Implementation Details](#implementation-details)  
-   - Layer definitions  
-   - Activation functions (ReLU, Softmax)  
-   - One-hot encoding  
-6. [Forward & Backward Propagation](#forward--backward-propagation)  
-7. [Gradient Descent Training](#gradient-descent-training)  
-8. [Results](#results)  
-9. [Usage](#usage)  
-10. [License](#license)  
 
----
-
-## Introduction
+## Aim
 
 This notebook demonstrates how to:
 
